@@ -16,3 +16,13 @@ This directory will contain leetcode questions that I have done twice, both in J
 Each of the subdirectory will have the questions that I have attempted inside them with a scanned piece of paper to explain my logic or any thoughts I had. The scanned PDF will contain how I thought about solving the problem before coding and after I have coded my work, I wrote what changes were made to any of the logic and approaches that were taken. 
 
 Once you finished viewing through this entire directory, please feel free to have a look at my other repositories and feel free to consider this repository as your study guide for any of your exams if it helps!! 
+
+# How can I run my files? 
+Make sure that you git clone the repository and then go ahead to the subdirectory you would like to visit. Utilize ls to figure out all the possible directories in your terminal and then use find and grep functions to find specific files or functions respectively. 
+
+To run a java file, you could do: 
+- javac [NAME_OF_FILE].java
+- java [NAME_OF_CLASS]
+
+To run a python file, you could do: 
+- python [NAME_OF_FILE].py
