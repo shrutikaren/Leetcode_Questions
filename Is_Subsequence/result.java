@@ -23,9 +23,18 @@ class Solution{
 	}
 
 	public static void main(String[] args){
+
+		// Test Case 1 
 		String s = "abc";
 		String t = "ahbgdc";
 		boolean output = isSubsequence(s, t);
 		System.out.println(output);
+
+
+		// Test Case 2 
+		String s1 = "axc";
+		String s2 = "ahbgdc";
+		boolean output_2 = isSubsequence(s1, s2);
+		System.out.println(output_2);
 	}
 }
