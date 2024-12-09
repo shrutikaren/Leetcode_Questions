@@ -17,6 +17,14 @@ Each of the subdirectory will have the questions that I have attempted inside th
 
 Once you finished viewing through this entire directory, please feel free to have a look at my other repositories and feel free to consider this repository as your study guide for any of your exams if it helps!! 
 
+Note that each directory contains these files: 
+- output_python.txt
+- output.txt
+- result.java
+- result.py
+- Solution.class
+- [NAME_OF_QUESTION].pdf
+  
 # How can I run my files? 
 Make sure that you git clone the repository and then go ahead to the subdirectory you would like to visit. Utilize ls to figure out all the possible directories in your terminal and then use find and grep functions to find specific files or functions respectively. 
 
