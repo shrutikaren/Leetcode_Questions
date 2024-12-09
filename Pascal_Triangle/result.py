@@ -1,7 +1,7 @@
 import numpy as np 
 
 def generate(number): 
-    newlist = np.zeros((number, number))
+    newlist = np.zeros((number, number), dtype=int)
     
     for i in range(number): 
         for j in range(i): 
