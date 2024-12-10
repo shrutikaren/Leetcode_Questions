@@ -19,7 +19,6 @@ class Solution{
 		}
 		int index = 0;
 		for (int i = a; i < stringnum.size() ; i ++){
-			index = 0;
 			String current = stringnum.get(i);
 			// Now we are looking at a specific number in the array
 			for (int k = 0; k < current.length() ; k++){
@@ -29,7 +28,6 @@ class Solution{
 					}
 				}
 			}
-			index ++;
 		}
 		return count;
 	}
